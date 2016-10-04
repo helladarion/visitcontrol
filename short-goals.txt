@@ -1,0 +1,54 @@
+# Short Goals for visit control
+
+# Create user DataBase With special features - DONE
+
+
+# Functions
+	AddClients - DONE
+	GetClients - DONE
+	UpdateClients
+	DeleteClients
+
+# Show Client Data and status
+	DONE
+# Functions
+	AddVisit - DONE
+	ConvertMinutes to Hour - DONE
+
+	Last Time Login - DONE
+# Next things - 
+	Option to delete your own visits - 
+	fix the admin clients function - DONE
+
+# Suggestions
+	Show the visits made - Date - Start - End - 
+	Option to admins to delete the visit - 
+	Back button on the title - DONE
+	Inlude left hours on the client list
+	
+
+	New folder structure
+	- Brasilandia '+' //to add a new visit
+		Visits done
+		Hours left
+	IAMSPE
+		Visits done
+		Hours left
+
+	To solve the idea for load all data fist //make a array of objects - OK
+	
+	Create a new model to take the description of the work done.
+
+
+
+
+
+## Bug Report
+	After comming back, the values of total hours, is broken - DONE
+	After add a new client the button to admin clients is disabled - OK
+	After add a new client, the variable is not cleaned. - OK
+		- Variable clientObj set to null after sucessfuly created new client - OK
+
+	We have a problem, when we record a new client, and it reloads, become impossible to add another one - Fixed
+
+	Duplicating itens to record new clients. - To fix this I'm going to separate the functions in small parts - Solved

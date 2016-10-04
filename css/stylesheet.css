@@ -1,0 +1,61 @@
+/* {
+	border: 1px dashed lightgrey;
+}*/
+
+.container {
+	width: 100%;
+	clear: both;
+}
+.container input {
+	width: 100%;
+	clear: both;
+}
+
+.left {
+	position: relative;
+	float: left;
+	width: 80%;
+	height: 50px;
+	font-family: Verdana, Tahoma, serif;
+}
+
+.right {
+	position: relative;
+	float: right;
+	width: 20%;
+	height: 50px;	
+	padding-top: 15px;
+	font-family: Verdana, Tahoma, serif;
+	font-size: 0.8em;
+}
+ #login {
+ 	position: absolute;
+ 	margin-top: 4%;
+ 	font-family: Verdana, Tahoma, serif;
+	font-size: 1em;	
+ }
+input {
+ 	border-radius: 5px;
+ 	border: 1px dashed darkred;
+ }
+button {
+ 	border-radius: 2px;
+ 	border: 1px solid grey;
+ 	background-color: lightgrey;
+ 	color: black;
+ }
+  #app {
+ 	position: absolute;
+ 	margin-top: 2%;
+ 	font-family: Verdana, Tahoma, serif;
+	font-size: 1em;	
+ }
+ .closeToFinish {
+ 	color: orange;
+ }
+ .extraTime {
+ 	color: red;
+ }
+ .colorCommon {
+ 	color: black;
+ }
