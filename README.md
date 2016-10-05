@@ -1,2 +1,2 @@
 # visitcontrol
-https://helladarion.github.io/visitcontrol/
+https://minerafa.pointto.us:1112
