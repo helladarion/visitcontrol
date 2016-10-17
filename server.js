@@ -6,7 +6,7 @@ var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
 // MongoDB
-mongoose.connect('mongodb://kingit.ddnsking.com/kingit', { user: 'kingit', pass: 'MK1m0n00$'});
+mongoose.connect('mongodb://kingit.ddnsking.com/kingit', { user: 'Mongo', pass: 'MyPassword'});
 
 // Express
 app.use(cors());
